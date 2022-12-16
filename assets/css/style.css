@@ -14260,6 +14260,13 @@ h1, .h1,
   }
 }
 
+.main-center {
+  position: relative;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+
 /*----------------------------------------*/
 /*    03. Base - Helper 
 /*----------------------------------------*/

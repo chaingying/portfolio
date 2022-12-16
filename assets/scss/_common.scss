@@ -179,3 +179,9 @@ h6,
         width: 70%;
     }
 }
+
+.main-center{
+    position:relative;
+    left:50%;
+    transform:translateX(-50%);
+}
